@@ -1,0 +1,13 @@
+tipo:Extra:150:100.0
+tipo:Corriente:50:100.0
+tipo:Diesel:100:100.0
+tipo:Diesel Plus:250:100.0
+surtidor:Enrique:Extra:0.0:Corriente:0.0:Diesel:0.0:Diesel Plus:0.0
+surtidor:Teofilo:Extra:0.0:Corriente:0.0:Diesel:0.0:Diesel Plus:0.0
+surtidor:Camilo:Extra:0.0:Corriente:0.0:Diesel:0.0:Diesel Plus:0.0
+surtidor:Teofilo:Extra:0.0:Corriente:0.0:Diesel:0.0:Diesel Plus:0.0
+empleado:Pablo:0
+empleado:Samuel:0
+empleado:Camilo:0
+empleado:Teofilo:0
+empleado:Enrique:0
